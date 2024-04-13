@@ -1,5 +1,6 @@
 <h1 align="center">StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding</h1>
 <p align="center">
+    <a href="https://huggingface.co/datasets/JoeyCheng/story_analogy"> <img src="https://img.shields.io/badge/%F0%9F%A4%97-Datasets-green"> </a>
     <a href="https://arxiv.org/abs/2310.12874"><img src="https://img.shields.io/badge/arXiv-2310.12874-b31b1b.svg" alt="Paper"></a>
     <a href="https://aclanthology.org/2023.emnlp-main.706/"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=EMNLP%2723&color=blue"> </a>
     <a href="https://github.com/LFhase/PAIR"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
