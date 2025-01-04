@@ -34,18 +34,7 @@ from datasets import load_dataset
 dataset = load_dataset("JoeyCheng/story_analogy")
 ```
 
-## Reproduce the results
-
-We are currently actively preparing the presentation materials and will update the code shortly.
-
-TODO-list
-
-[x] Reframe the dataset with huggingface datasets and present a dataset card.
-
-[ ] Organize & release code for the experiments.
- <!-- A quick-start demo.  -->
-
-
+The multiple choice subset can be found at `src/data/storyanalogy_multiple_choice.json`.
 
 ## Misc
 

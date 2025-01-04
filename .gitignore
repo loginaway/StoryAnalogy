@@ -162,3 +162,4 @@ cython_debug/
 .Rhistory
 tmp.ipynb
 README.html
+tmp/
